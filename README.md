@@ -4,7 +4,7 @@ The Faubai folder contains the notebooks regarding preprocessing, training and e
 
 The HYPSO_TreeLabels folder contains the notebooks regarding labeling, training and evaluation of the HYPSO-TreeLabels dataset (HYPSO-1).
 
-Finally, all models used in this experiment can be found in the "models" notebook, and the creation of the projection matrix between HYPSO-1 and PRISMA in the "projection_matrix" notebook.
+Finally, all CNN models used in this experiment can be found in the "models" notebook, and the creation of the projection matrix between HYPSO-1 and PRISMA in the "projection_matrix" notebook.
 
 
 The data resources used in these notebooks must be requested. Contact the HYPSO team at NTNU Small Satellite Lab (https://www.ntnu.edu/smallsat) or the author of this repository for access. 
