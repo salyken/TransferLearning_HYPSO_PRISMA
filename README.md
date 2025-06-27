@@ -1,4 +1,6 @@
-This repository is dedicated to the Master's thesis "Cross-Sensor Transfer Learning for Hyperspectral Image Classification Using HYPSO-1 and PRISMA". 
+This repository is dedicated to the Master's thesis "Cross-Sensor Transfer Learning for Tree
+Species Classification Using PRISMA and
+HYPSO-1 Hyperspectral Imagery". 
 
 The Faubai folder contains the notebooks regarding preprocessing, training and evaluation of the Faubai dataset (PRISMA).
 
